@@ -1,9 +1,9 @@
 #requires -version 7.3
 
-If ($host.name -ne 'ConsoleHost') {
-  Write-Warning "This must be run in a console host."
-  Return
-}
+# If ($host.name -ne 'ConsoleHost') {
+#   Write-Warning "This must be run in a console host."
+#   Return
+# }
 
 #Clear-Host
 
